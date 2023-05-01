@@ -1,7 +1,6 @@
 # demo
 
-A new Flutter project.
-
+![flutter App](assets/screenshots/home-page.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
